@@ -17,6 +17,18 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "Moongdol",
+      "name": "Vincent",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97393806?v=4",
+      "profile": "https://github.com/Moongdol",
+      "contributions": [
+        "design",
+        "code",
+        "ideas",
+        "promotion"
+      ]
     }
   ],
   "contributorsPerLine": 7,

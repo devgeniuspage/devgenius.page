@@ -1,6 +1,6 @@
 # 내가 천재 개발자라면?
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 천재 개발자들의 웹페이지 공간을 무료로 만들어 드립니다.
@@ -39,7 +39,8 @@ https://[요청단어].is.devgenius.page
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.programmer.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#design-jams777" title="Design">🎨</a> <a href="#ideas-jams777" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/devgeniuspage/devgenius.page/pulls?q=is%3Apr+reviewed-by%3Ajams777" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#design-jams777" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Moongdol"><img src="https://avatars.githubusercontent.com/u/97393806?v=4?s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="https://github.com/devgeniuspage/devgenius.page/commits?author=Moongdol" title="Code">💻</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-Moongdol" title="Promotion">📣</a></td>
     </tr>
   </tbody>
 </table>
