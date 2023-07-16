@@ -39,7 +39,7 @@ https://[요청단어].is.devgenius.page
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.programmer.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#design-jams777" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#design-jams777" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Moongdol"><img src="https://avatars.githubusercontent.com/u/97393806?v=4?s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="https://github.com/devgeniuspage/devgenius.page/commits?author=Moongdol" title="Code">💻</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-Moongdol" title="Promotion">📣</a></td>
     </tr>
   </tbody>
