@@ -7,27 +7,6 @@
   "commitType": "docs",
   "commitConvention": "angular",
   "contributors": [
-    {
-      "login": "jams777",
-      "name": "JiamSeo",
-      "avatar_url": "https://avatars.githubusercontent.com/u/2595527?v=4",
-      "profile": "https://jiamseo.is.devgenius.page",
-      "contributions": [
-        "design",
-        "ideas",
-        "review"
-      ]
-    },
-    {
-      "login": "Moongdol",
-      "name": "Vincent",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97393806?v=4",
-      "profile": "https://github.com/Moongdol",
-      "contributions": [
-        "design",
-        "ideas"
-      ]
-    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
