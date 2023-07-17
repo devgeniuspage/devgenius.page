@@ -40,8 +40,8 @@ https://[요청단어].is.devgenius.page
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#ideas-jams777" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-jams777" title="Design">🎨</a> <a href="https://github.com/devgeniuspage/devgenius.page/pulls?q=is%3Apr+reviewed-by%3Ajams777" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Moongdol"><img src="https://avatars.githubusercontent.com/u/97393806?v=4?s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CheonInJeong"><img src="https://avatars.githubusercontent.com/u/80233325?v=4?s=100" width="100px;" alt="CheonInJeong"/><br /><sub><b>CheonInJeong</b></sub></a><br /><a href="#design-CheonInJeong" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://vincent.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/97393806?v=4?s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cheoninjeong.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/80233325?v=4?s=100" width="100px;" alt="CheonInJeong"/><br /><sub><b>CheonInJeong</b></sub></a><br /><a href="#design-CheonInJeong" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
