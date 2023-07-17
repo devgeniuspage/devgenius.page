@@ -27,6 +27,15 @@
         "design",
         "ideas"
       ]
+    },
+    {
+      "login": "CheonInJeong",
+      "name": "CheonInJeong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80233325?v=4",
+      "profile": "https://github.com/CheonInJeong",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
