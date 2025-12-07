@@ -3,12 +3,12 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-천재 개발자들의 웹페이지 공간을 무료로 만들어 드립니다.
+개발 천재들의 웹페이지 공간을 무료로 만들어 드립니다.
 
 
 ## 뭐하는 건가요?
 
-"누구누구는 천재 개발자 입니다." 를 뜻하는 웹페이지를 만들 수 있는 공간을 제공하고 sub domain을 제공하는 서비스 입니다.
+"OOO은 개발 천재다." 를 뜻하는 웹페이지를 만들 수 있는 공간을 제공하고 sub domain을 제공하는 서비스 입니다.
 
 무료입니다.
 
@@ -39,10 +39,20 @@ https://[요청단어].is.devgenius.page
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4?s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#ideas-jams777" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-jams777" title="Design">🎨</a> <a href="https://github.com/devgeniuspage/devgenius.page/pulls?q=is%3Apr+reviewed-by%3Ajams777" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://vincent.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/97393806?v=4?s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://cheoninjeong.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/80233325?v=4?s=100" width="100px;" alt="CheonInJeong"/><br /><sub><b>CheonInJeong</b></sub></a><br /><a href="#design-CheonInJeong" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://usopp.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/44239297?v=4?s=100" width="100px;" alt="Usopp"/><br /><sub><b>Usopp</b></sub></a><br /><a href="#design-ghdl023" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jiamseo.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/2595527?v=4&s=100" width="100px;" alt="JiamSeo"/><br /><sub><b>JiamSeo</b></sub></a><br /><a href="#ideas-jams777" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-jams777" title="Design">🎨</a> <a href="https://github.com/devgeniuspage/devgenius.page/pulls?q=is%3Apr+reviewed-by%3Ajams777" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://vincent.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/97393806?v=4&s=100" width="100px;" alt="Vincent"/><br /><sub><b>Vincent</b></sub></a><br /><a href="#design-Moongdol" title="Design">🎨</a> <a href="#ideas-Moongdol" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cheoninjeong.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/80233325?v=4&s=100" width="100px;" alt="CheonInJeong"/><br /><sub><b>CheonInJeong</b></sub></a><br /><a href="#design-CheonInJeong" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://usopp.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/44239297?v=4&s=100" width="100px;" alt="Usopp"/><br /><sub><b>Usopp</b></sub></a><br /><a href="#design-ghdl023" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://ryeonju.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/87963240?v=4&s=100" width="100px;" alt="Anne"/><br /><sub><b>Anne</b></sub></a><br /><a href="#design-YeonjuKim1" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://bluelily.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/131415642?v=4&s=100" width="100px;" alt="Lily"/><br /><sub><b>Lily</b></sub></a><br /><a href="#design-bluelily555" title="Design">🎨</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://marco.is.devgenius.page"><img src="https://avatars.githubusercontent.com/u/169108669?v=4&s=100" width="100px;" alt="Lily"/><br /><sub><b>Marco</b></sub></a><br /><a href="#design-KwonSeongHyeok" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%">&nbsp;</td>
+      <td align="center" valign="top" width="14.28%">&nbsp;</td>
+      <td align="center" valign="top" width="14.28%">&nbsp;</td>
+      <td align="center" valign="top" width="14.28%">&nbsp;</td>
+      <td align="center" valign="top" width="14.28%">&nbsp;</td>
     </tr>
   </tbody>
 </table>
